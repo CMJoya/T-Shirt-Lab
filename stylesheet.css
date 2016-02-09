@@ -1,0 +1,78 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+.shirts {
+  display: flex;
+  justify-content: center;
+
+}
+.shirtbox {
+  border: 2px solid #6BACDA;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.lower-box {
+  border: 0px solid #6BACDA;
+  border-bottom: 2px solid #6BACDA;
+  border-left: 2px solid #6BACDA;
+  border-right: 2px solid #6BACDA;
+  height: 34px;
+  display: flex;
+  justify-content: space-around;
+}
+.lower-box div i  {
+  color:  #6BACDA;
+  border-right: 2px solid #6BACDA;
+  /*padding-right: 20px;*/
+height: 35px;
+width: 47px;
+display: flex;
+align-items:center;
+justify-content: space-around;
+}
+.exchange i {
+border-right: 2px solid #6BACDA;
+height: 35px;
+width: 47px;
+display: flex;
+align-items: center;
+justify-content: space-around;
+
+}
+.heart i  {
+  border-right: 2px solid #6BACDA;
+  height: 35px;
+  width: 47px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+
+}
+.xl i {
+border-right: 2px solid #6BACDA;
+height: 35px;
+width: 47px;
+display: flex;
+align-items: center;
+justify-content: space-around;
+
+}
+.blueswatch i {
+border-right: 2px solid #6BACDA;
+height: 35px;
+width: 47px;
+display: flex;
+align-items: center;
+justify-content: space-around;
+
+}
+.shopping-cart i  {
+border-right: 2px solid #6BACDA;
+height: 35px;
+width: 47px;
+display: flex;
+align-items: center;
+justify-content: space-around;
+}
