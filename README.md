@@ -1,4 +1,4 @@
-# Week-1-Lab
+# T-Shirt Lab
 
 Objectives:
 
