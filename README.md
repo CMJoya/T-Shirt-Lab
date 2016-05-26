@@ -8,14 +8,12 @@ Objectives:
 
   After completing this assignment, you should be able to create a responsive layout in HTML and CSS from scratch.
 
-  Performance Objectives
-
-  After completing this assignment, you should be able to effectively:
+Performance Objectives:
 
   Create complex, multi-column layouts, with a variety of different methods; combining Multiple approaches to achieve truly creative interface potential
   Details
 
-  Deliverables:
+Deliverables:
 
   Index.html
   Stylesheets (css)
