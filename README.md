@@ -4,9 +4,10 @@ Objectives:
 
   Exercise control of CSS display types, positioning, animations
   Reinforce concepts of layout and display types
-  Learning Objectives
 
-  After completing this assignment, you should be able to create a responsive layout in HTML and CSS from scratch.
+Learning Objectives:
+
+  Be able to create a responsive layout in HTML and CSS from scratch.
 
 Performance Objectives:
 
